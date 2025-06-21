@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Rogelio Servin — aka @rogservin
 
-<!--
-**rogservin/rogservin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 Mexico City, Toronto, NYC - ✈️ Global Citizen  
+🎛️ Creative Technologist | 🧠 Blockchain Strategist | 🎵 Producer & Builder  
+🧱 Web3 developer focused on Ethereum, Base & NEAR | Solidity · TypeScript · React
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+
+- 🧠 **AMPLE Protocol** — tokenizing $4.2T worth of IP to unlock global creativity  
+- 🪙 Launching **$AMPD** tools on Base  
+- 🔐 Finalizing our audited staking dApp  
+- 🎶 Producing music/film NFTs with top artists
+
+---
+
+### 🧰 Tech Stack
+
+`Solidity` · `TypeScript` · `Hardhat` · `Foundry` · `Next.js`  
+`React` · `TailwindCSS` · `IPFS` · `Arweave` · `Sablier`  
+`Base` · `Ethereum` · `NEAR Protocol` · `OpenZeppelin` · `Viem`  
+`GitHub Actions` · `Vercel` · `Node.js`
+
+---
+
+### 📊 GitHub Stats
+
+![rogservin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogservin&show_icons=true&theme=radical)
+
+---
+
+### 🧠 Let's Connect
+
+
+- 🐦 [@rogservin](https://twitter.com/rogservin)
+- 📬 [rogservin@protonmail.com](mailto:rogservin@protonmail.com)
+
+
+---
+
+> *“Build boldly. Ship often. Empower creators.”*
+
