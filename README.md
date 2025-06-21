@@ -10,7 +10,7 @@
 
 - 🧠 **AMPLE Protocol** — tokenizing $4.2T worth of IP to unlock global creativity  
 - 🪙 Launching **$AMPD** tools on Base  
-- 🔐 Finalizing our audited staking dApp  
+- 🔐 Audited dApps
 - 🎶 Producing music/film NFTs with top artists
 
 ---
