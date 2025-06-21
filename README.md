@@ -24,12 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![rogservin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogservin&show_icons=true&theme=radical)
-
----
-
 ### 🧠 Let's Connect
 
 
