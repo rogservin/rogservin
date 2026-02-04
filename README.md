@@ -1,37 +1,87 @@
-# 👋 Hi, I'm Rogelio Servin — aka @rogservin
+# 👋 Hi, I’m Rogelio Servin — @rogservin
 
-🌎 Mexico City, Toronto, NYC - ✈️ Global Citizen  
-🎛️ Creative Technologist | 🧠 Blockchain Strategist | 🎵 Producer & Builder  
-🧱 Web3 developer focused on Ethereum, Base & NEAR | Solidity · TypeScript · React
+🌍 NYC · Toronto · Mexico City  
+✈️ Independent · Global · Location-agnostic
 
----
-
-### 🚀 What I'm working on
-
-- 🧠 **AMPLE Protocol** — tokenizing $4.2T worth of IP to unlock global creativity  
-- 🪙 Launching **$AMPD** tools on Base  
-- 🔐 Audited dApps
-- 🎶 Producing music/film NFTs with top artists
+🧠 Creative Technologist · 🧱 Blockchain Architect · 🎛️ Producer  
+I design and ship **production-grade onchain systems, digital products, and creative infrastructure** at the intersection of culture, capital, and code.
 
 ---
 
-### 🧰 Tech Stack
+## 🧭 What I do (2026)
 
-`Solidity` · `TypeScript` · `Hardhat` · `Foundry` · `Next.js`  
-`React` · `TailwindCSS` · `IPFS` · `Arweave` · `Sablier`  
-`Base` · `Ethereum` · `NEAR Protocol` · `OpenZeppelin` · `Viem`  
-`GitHub Actions` · `Vercel` · `Node.js`
+- **Independent consulting & system architecture**
+  - Token design & incentive systems
+  - Smart-contract architecture (vesting, staking, royalties, access)
+  - MVP → production strategy for founders and studios
+
+- **Production smart contracts**
+  - Audited, upgradeable, real-user systems
+  - Ethereum & Base as primary execution layers
+
+- **Creative & cultural IP**
+  - Music, film, and media projects with a strong product layer
+  - NFTs as access keys, not speculation
+
+I focus on **systems that last**, not hype cycles.
 
 ---
 
-### 🧠 Let's Connect
+## 🧰 Tech Stack (real use)
 
+### 🧱 Blockchain & Protocols
+- Solidity
+- Ethereum · Base
+- NEAR Protocol
+- OpenZeppelin
+- ERC-4337 (smart wallets, session keys, sponsored gas)
+- Token primitives: vesting, lockups, staking, royalties
 
-- 🐦 [@rogservin](https://twitter.com/rogservin)
-- 📬 [rogservin@protonmail.com](mailto:rogservin@protonmail.com)
+### ⚙️ Smart Contract Tooling
+- Foundry
+- Hardhat
+- Viem
+- Upgradeable proxies (`TransparentUpgradeableProxy`)
+- Audit prep, threat modeling, post-deploy fixes
 
+### 🖥️ Frontend & Product
+- TypeScript
+- React
+- Next.js (App Router)
+- TailwindCSS
+- Wallet UX & gated access flows
+- Real-time balances, APY, USD valuation
+
+### 🗄️ Storage & Media
+- Arweave
+- IPFS
+- Onchain ↔ offchain content resolution
+
+### 🚀 DevOps & Shipping
+- Node.js
+- GitHub Actions
+- Vercel
+- CI/CD, environment discipline (testnet → mainnet)
 
 ---
 
-> *“Build boldly. Ship often. Empower creators.”*
+## 🧠 How I work
+
+- Systems > trends  
+- Incentives > narratives  
+- Fewer projects, higher leverage  
+
+I don’t chase cycles.  
+I help people **ship things that survive them**.
+
+---
+
+## 🤝 Let’s connect
+
+- 🐦 X / Twitter: https://twitter.com/rogservin  
+- 📬 Email: rogservin@protonmail.com
+
+---
+
+> **“Clarity is a competitive advantage.”**
 
