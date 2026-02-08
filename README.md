@@ -8,7 +8,7 @@ I design and ship **production-grade onchain systems, digital products, and crea
 
 ---
 
-## 🧭 What I do (2026)
+## 🧭 What I do
 
 - **Independent consulting & system architecture**
   - Token design & incentive systems
