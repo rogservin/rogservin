@@ -41,7 +41,7 @@ I focus on **systems that last**, not hype cycles.
 - Foundry
 - Hardhat
 - Viem
-- Upgradeable proxies (`TransparentUpgradeableProxy`)
+- Upgradeable proxies 
 - Audit prep, threat modeling, post-deploy fixes
 
 ### 🖥️ Frontend & Product
