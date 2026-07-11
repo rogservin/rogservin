@@ -4,8 +4,6 @@
 
 Entrepreneur, venture architect and creative producer exploring the intersection of software, artificial intelligence, Bitcoin, media and culture.
 
-Currently building quietly.
-
 ---
 
 ## What I do
