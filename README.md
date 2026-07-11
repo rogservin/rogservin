@@ -1,87 +1,125 @@
-# 👋 Hi, I’m Rogelio Servin — @rogservin
+# Rogelio Servin
 
-🌍 NYC · Toronto · Mexico City  
-✈️ Independent · Global · Location-agnostic
+> I build things before they become obvious.
 
-🧠 Creative Technologist · 🧱 Blockchain Architect · 🎛️ Producer  
-I design and ship **production-grade onchain systems, digital products, and creative infrastructure** at the intersection of culture, capital, and code.
+Entrepreneur, venture architect and creative producer exploring the intersection of software, artificial intelligence, Bitcoin, media and culture.
 
----
-
-## 🧭 What I do
-
-- **Independent consulting & system architecture**
-  - Token design & incentive systems
-  - Smart-contract architecture (vesting, staking, royalties, access)
-  - MVP → production strategy for founders and studios
-
-- **Production smart contracts**
-  - Audited, upgradeable, real-user systems
-  - Ethereum & Base as primary execution layers
-
-- **Creative & cultural IP**
-  - Music, film, and media projects with a strong product layer
-  - NFTs as access keys, not speculation
-
-I focus on **systems that last**, not hype cycles.
+Currently building quietly.
 
 ---
 
-## 🧰 Tech Stack (real use)
+## What I do
 
-### 🧱 Blockchain & Protocols
-- Solidity
-- Ethereum · Base
-- NEAR Protocol
-- OpenZeppelin
-- ERC-4337 (smart wallets, session keys, sponsored gas)
-- Token primitives: vesting, lockups, staking, royalties
+I enjoy creating products from zero.
 
-### ⚙️ Smart Contract Tooling
-- Foundry
-- Hardhat
-- Viem
-- Upgradeable proxies 
-- Audit prep, threat modeling, post-deploy fixes
+Sometimes that means writing software.
 
-### 🖥️ Frontend & Product
+Sometimes it means designing systems, brands, communities or entirely new businesses.
+
+Over the last decade I've worked across:
+
+- Artificial Intelligence
+- Bitcoin
+- Web3
+- Software Products
+- Creative Direction
+- Music Production
+- Venture Building
+- Digital Infrastructure
+
+---
+
+## Current Focus
+
+- Private AI research
+- Local-first software
+- Human-centered computing
+- Creative technology
+- Venture architecture
+
+---
+
+## Selected Projects
+
+### Ample Protocol
+
+Building blockchain products, experiences and digital infrastructure.
+
+### Frisbi
+
+An early decentralized social network exploring digital ownership.
+
+### Wavy Valley
+
+Original IP exploring Bitcoin through storytelling.
+
+### Dream State
+
+Generative art.
+
+### Token Magician
+
+Winner at ETHDenver 2024.
+
+### Grinzip
+
+Creative studio focused on technology, media and strategy.
+
+---
+
+## Principles
+
+- Build long-term.
+- Simplicity scales.
+- Systems over trends.
+- Culture is technology.
+- Ship.
+
+---
+
+## Stack
+
+I use whatever helps solve the problem.
+
+Most often:
+
 - TypeScript
 - React
-- Next.js (App Router)
-- TailwindCSS
-- Wallet UX & gated access flows
-- Real-time balances, APY, USD valuation
-
-### 🗄️ Storage & Media
-- Arweave
-- IPFS
-- Onchain ↔ offchain content resolution
-
-### 🚀 DevOps & Shipping
+- Next.js
+- Solidity
+- Ethereum
+- Bitcoin
 - Node.js
+- Docker
+- SQLite
+- Python
+- AI APIs
 - GitHub Actions
-- Vercel
-- CI/CD, environment discipline (testnet → mainnet)
 
 ---
 
-## 🧠 How I work
+## Outside Work
 
-- Systems > trends  
-- Incentives > narratives  
-- Fewer projects, higher leverage  
+Outside technology you'll usually find me:
 
-I don’t chase cycles.  
-I help people **ship things that survive them**.
-
----
-
-## 🤝 Let’s connect
-
-- 🐦 X / Twitter: https://twitter.com/rogservin  
-- 📬 Email: rogservin@protonmail.com
+- Producing music
+- Building original IP
+- Walking cities
+- Playing golf
+- Drinking espresso
 
 ---
 
-> **“Clarity is a competitive advantage.”**
+## Connect
 
+🌐 https://rogservin.com
+
+𝕏 https://x.com/rogservin
+
+☕ https://calendly.com/rogservin/espresso-chat
+
+📬 rogservin@protonmail.com
+
+---
+
+> Build quietly.
