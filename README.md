@@ -41,7 +41,7 @@ Over the last decade I've worked across:
 
 ### Ample Protocol
 
-Building blockchain products, experiences and digital infrastructure.
+Built blockchain products, experiences and digital infrastructure.
 
 ### Frisbi
 
